@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-constants": "^0.0.2",
+    "three": "^0.151.3"
+  }
+}
